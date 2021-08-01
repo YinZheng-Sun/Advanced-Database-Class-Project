@@ -1,2 +1,61 @@
 # Advanced Database Class Project
- 基于Leveldb
+ 基于Leveldb实现
+
+#### 1.实现数据的隔离性(column family)
+
+
+
+#### 2.增强点查询性能（hashtable
+
+
+
+#### 3.实现Index功能（通过value检索key）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
